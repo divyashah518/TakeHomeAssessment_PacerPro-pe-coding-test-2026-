@@ -28,4 +28,4 @@ Sumo Logic → Alert (conceptual) → Webhook → AWS Lambda → EC2 Reboot + SN
 
 ## Recording
 🎥 Demo Recording:
-I have added a video file.
+https://drive.google.com/file/d/1jl2ZvOeuOugSF1ZLyT5Sk00tnvdI-fXP/view?usp=sharing
