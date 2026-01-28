@@ -1,0 +1,5 @@
+_sourcecategory=prod/api
+| where requestPath = "/api/data"
+| where responseTime > 3000
+| timeslice 10m
+| count as slow_requests
